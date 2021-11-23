@@ -21,3 +21,4 @@ Just go to the repo of the app, you want to work on and read the CONTRIBUTING.MD
 4. [Stone Paper Scissors Game](https://github.com/GammaBurst101/SPSGame)
 5. [pdfMaker](https://github.com/GammaBurst101/pdfMaker)
 6. [Random Number Generator](https://github.com/GammaBurst101/RandomNumberGenerator)
+7. [Shopping Cart](https://github.com/GammaBurst101/ShoppingCart)
