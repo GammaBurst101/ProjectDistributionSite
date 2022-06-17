@@ -1,4 +1,4 @@
-> While learning programming, working on small projects is a great way to reinforce what you have learned. 
+> While learning programming, working on small projects is a great way to reinforce what you have learned.
 
 This repo contains all the projects which I have made this way.
 Feel free to download and use any of them.
@@ -22,3 +22,4 @@ Just go to the repo of the app, you want to work on and read the CONTRIBUTING.MD
 5. [pdfMaker](https://github.com/GammaBurst101/pdfMaker)
 6. [Random Number Generator](https://github.com/GammaBurst101/RandomNumberGenerator)
 7. [Shopping Cart](https://github.com/GammaBurst101/ShoppingCart)
+8. [MockFeed](https://github.com/GammaBurst101/MockFeed)
